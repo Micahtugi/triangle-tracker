@@ -12,3 +12,9 @@ This project uses the HTML, CSS and Javascript languages.
 |Two sides are equal          | 5,5,6              | Isosceles          |
 |No sides are equal           | 3,4,5              | Scalene            |
 |Not numerical                | 9,3,58             | Not a triangle     |
+
+## Support and contact details
+If any questions arise from  the project, feel free to write me an email @ micahkimathi@gmail.com
+###Licence
+This project is under the MIT licencing.
+Copyright (c) (2019) Micah Mutugi
