@@ -9,4 +9,10 @@ function triangleTracker(){
     alert("These in an Isosceles triangle");
 
   }
+  else if ((l+w)<=h || (l+h)<=w || (w+h)<=l){
+    alert("This is NOT a triangle");
+  }
+  else if (l!==w && w!==h) {
+    alert("This is a Scalene triangle");
+  }
 }
