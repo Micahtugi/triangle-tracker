@@ -5,6 +5,8 @@ Triangle TRACKER
 This is a project that reveals to you the type of triangle based on the values you have keyed in.
 ##Technologies used
 This project uses the HTML, CSS and Javascript languages.
+###Set up instructions
+Input three values of the triangles in the boxes below and click the checkout to find out the type of triangle.
 ##BDD
 | Behaviour                   | Input              | Output             
 |----------------------------:|:------------------:|:-------------------|
