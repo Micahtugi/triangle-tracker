@@ -2,4 +2,5 @@ body {
   background-image: url("https://media0.giphy.com/media/eB5WYVSaOT0qUmHOWA/giphy.gif?cid=790b76115c9d43f26b664c4f41b89982");
   background-size: contain;
   font-size: 25px;
+  text-align: center;
 }
